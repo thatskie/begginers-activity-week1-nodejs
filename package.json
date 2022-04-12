@@ -1,0 +1,22 @@
+{
+  "name": "week1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "colors": "^1.4.0",
+    "images": "^3.2.4",
+    "json2xls": "^0.1.2",
+    "movie-list-node": "^2.1.1",
+    "pure-svg-code": "^1.0.6",
+    "qrcode-svg-table": "^1.1.2",
+    "simple-excel-to-json": "^2.3.0"
+  }
+}
